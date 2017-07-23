@@ -1,0 +1,16 @@
+{
+	"family car": ["family"],
+	"fuel-efficient car": ["efficient", "good mileage", "economic", "great mileage", "good economy", "great economy", "good efficiency", "great efficiency"],
+	"comfortable car": ["comfortable", "comfort", "adjustable", "accommodating"],
+	"luxury car": ["luxury", "luxurious", "rich", "classy", "premium"],
+    "sporty car": ["sporty", "peppy", "sport"],
+	"quiet car": ["quiet", "silent"],
+	"commuter car": ["commute", "everyday"],
+	"stylish car": ["great design", "beautiful", "modern", "stylish"],
+	"affordable car": ["good deal", "good price", "great price", "great value", "good value", "affordable", "inexpensive", "cheap price", "cheap car"],
+	"compact car": ["compact", "small car", "little car", "small size"],
+	"spacious car": ["roomy", "spacious", "good space", "excellent space", "great space", "big space", "amazing space", "large space"],
+    "sexy car": ["sexy"]
+
+	
+}
