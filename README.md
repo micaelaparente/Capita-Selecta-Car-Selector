@@ -1,6 +1,6 @@
 # Car Selector
 
-This is an academic project I developed for the course "Capita Selecta", as part of my Master's in Business Informatics at Utrecht University.
+This is an [academic project](https://github.com/micaelaparente/Capita-Selecta-Car-Selector/blob/master/Capita%20Selecta%20Report.pdf) I developed for the course "Capita Selecta", as part of my Master's in Business Informatics at Utrecht University.
 It takes as input user reviews of cars from 2016 and 2017, extracted from Edmunds.com, and outputs tagged cars according to their qualitative properties, such as "Affordable car", or "Sexy car".
 Additionally, it also comprises a Shiny app ([see it live](https://mparente.shinyapps.io/car-selector/)) to play with different tags and see suggestions of cars.
 
